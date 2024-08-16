@@ -1,0 +1,21 @@
+#page{
+    background-color:  rgb(106,220,153);
+    height: 850px;
+    width: 900px;
+    position: relative;
+    left: 280px;
+    
+}
+#text{
+    position: absolute;
+    top: 200px;
+    right: 400px;
+}
+#button{
+    background-color: white;
+    text-align: center;
+    height: 50px;
+    width: 200px;
+    border: none;
+    border-radius: 20px;
+}

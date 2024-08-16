@@ -1,0 +1,22 @@
+h1{
+    color:#ff0000;
+    background-color: green;
+}
+
+/* using id */
+#heading{
+    color:rgb(0,0,255);
+    background-color: yellow;
+
+}
+.head{
+    color:rgba(95,45,100,.3);
+    background-color: pink;
+}
+/* id>class>tag name */
+ul{
+    list-style-type: none;
+}
+ol{
+    list-style-type: lower-roman;
+}
